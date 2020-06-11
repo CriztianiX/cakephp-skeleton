@@ -31,6 +31,11 @@ use Cake\View\Exception\MissingTemplateException;
  */
 class PagesController extends AppController
 {
+    public function vue()
+    {
+        
+    }
+
     /**
      * Displays a view
      *
